@@ -1,5 +1,5 @@
 ---
-date: '2017-04-01'
+date: '2018-04-01'
 title: 'Software Developer'
 company: 'WitsmindAI'
 location: 'Northeastern University'
