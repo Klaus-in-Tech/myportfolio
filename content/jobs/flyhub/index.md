@@ -3,7 +3,7 @@ date: '2021-04-21'
 title: 'Robotics Engineer'
 company: 'Stanbic Bank Uganda'
 location: 'Kampala, Uganda'
-range: 'April - Jan 2023'
+range: 'April 2020 - Jan 2023'
 url: 'https://www.stanbicbank.co.ug/'
 ---
 

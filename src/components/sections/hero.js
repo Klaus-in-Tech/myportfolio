@@ -68,8 +68,11 @@ const Hero = () => {
         I’m a competent and versatile functional professional, bringing combination of banking
         industry transformation primarily focusing on RPA, while also covering technologies such as
         ML, AI, Java and Python. Currently offering my services at{' '}
-        <a href="https://rpapp.io/rpa-services" target="_blank" rel="noreferrer">
-          RPApp.io
+        <a
+          href="https://www.upwork.com/freelancers/~012076d04e875f84b5"
+          target="_blank"
+          rel="noreferrer">
+          Upwork
         </a>
         .
       </p>

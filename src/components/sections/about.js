@@ -125,7 +125,18 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'TypeScript', 'React', 'UiPath', 'Robocorp', 'WordPress'];
+  const skills = [
+    'Python',
+    'TypeScript',
+    'React',
+    'UiPath',
+    'Robocorp',
+    'WordPress',
+    'FASTAPI',
+    'Java',
+    'Git',
+    'GitHub',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,16 +147,18 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Kakooza and I enjoy creating things that live on. My interest in
-              software development started back in 2016 when I joined computer science at Makerere
-              University.
+              problem solving using software started my journey back in 2016 when I joined computer
+              science at Makerere University.
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://witsmind.com/">a start-up</a>, and{' '}
-              <a href="https://www.stanbicbank.co.ug/">the best bank in Uganda</a>, My main focus
-              these days is building intelligent automation solutions at{' '}
-              <a href="https://rpapp.io/rpa-services">RPApp.io</a> for a variety of clients.
+              <a href="https://witsmind.com/">a start-up</a>,{' '}
+              <a href="https://www.stanbicbank.co.ug/">the best bank in Uganda</a> and{' '}
+              <a href="https://ke.kcbgroup.com/">the best bank in Kenya</a> through{' '}
+              <a href="https://www.onelifeconsult.com/">Onelife Consultants</a> where I am working
+              as a Robotics Consultant, My main focus these days is building intelligent automation
+              solutions for a variety of clients.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

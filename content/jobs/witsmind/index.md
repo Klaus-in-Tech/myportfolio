@@ -2,7 +2,7 @@
 date: '2018-04-01'
 title: 'Software Developer'
 company: 'WitsmindAI'
-location: 'Northeastern University'
+location: 'Kamwokya, Kampala, Uganda'
 range: 'Jul 2018 - 2020'
 url: 'https://witsmind.com/'
 ---
