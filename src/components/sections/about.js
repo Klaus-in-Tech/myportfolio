@@ -161,7 +161,7 @@ const About = () => {
               solutions for a variety of clients.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are some of the technologies I’ve been worked so far as a IT practioner :</p>
           </div>
 
           <ul className="skills-list">

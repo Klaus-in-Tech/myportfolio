@@ -1,16 +1,12 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+title: 'UiPath and Python Integration'
+cover: './uipath-path.png'
+external: 'https://github.com/Klaus-in-Tech/uipath-python'
+cta: 'https://github.com/Klaus-in-Tech/uipath-python'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - UiPath
+  - Python
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+Python integration with UiPath refers to the ability to leverage Python’s capabilities within the UiPath RPA platform. It allows developers to harness the extensive libraries and frameworks available in Python to enhance the functionality and flexibility of automation workflows. By integrating Python scripts and code snippets into UiPath, users can perform complex data manipulations, interact with external systems, and unlock advanced analytical capabilities.
