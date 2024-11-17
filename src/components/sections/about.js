@@ -127,7 +127,7 @@ const About = () => {
 
   const skills = [
     'Python',
-    'TypeScript',
+    'JavaScript',
     'React',
     'UiPath',
     'Robocorp',
@@ -146,22 +146,22 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Kakooza and I enjoy creating things that live on. My interest in
-              problem solving using software started my journey back in 2016 when I joined computer
-              science at Makerere University.
+              Hello! My name is Kakooza, and I enjoy creating things that have lasting impact. My
+              journey in software-based problem-solving began back in 2016 when I joined the
+              Computer Science program at Makerere University.
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://witsmind.com/">a start-up</a>,{' '}
-              <a href="https://www.stanbicbank.co.ug/">the best bank in Uganda</a> and{' '}
-              <a href="https://ke.kcbgroup.com/">the best bank in Kenya</a> through{' '}
-              <a href="https://www.onelifeconsult.com/">Onelife Consultants</a> where I am working
-              as a Robotics Consultant, My main focus these days is building intelligent automation
-              solutions for a variety of clients.
+              <a href="https://www.stanbicbank.co.ug/">Uganda’s leading bank</a> and{' '}
+              <a href="https://ke.kcbgroup.com/">Kenya’s top bank</a> through{' '}
+              <a href="https://www.onelifeconsult.com/">Onelife Consultants</a> where I currently
+              serve as a Robotics Consultant. My primary focus these days is building intelligent
+              automation solutions for a diverse range of clients.
             </p>
 
-            <p>Here are some of the technologies I’ve been worked so far as a IT practioner :</p>
+            <p>Here are some of the technologies I’ve worked with as an IT practitioner:</p>
           </div>
 
           <ul className="skills-list">

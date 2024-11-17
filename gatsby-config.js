@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Kakooza Allan Klaus',
     description:
-      'Kakooza Allan Klaus is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Kakooza Allan Klaus is an AI and Automation engineer who specializes in building rpa and agentic bots that do repetitive tasks.',
     siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@Klaus_in_Tech',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -26,7 +26,7 @@ module.exports = {
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
+        icon: 'src/images',
       },
     },
     `gatsby-plugin-offline`,
