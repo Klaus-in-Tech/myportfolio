@@ -1,12 +1,21 @@
 const config = require('./src/config');
 
 module.exports = {
+  // siteMetadata: {
+  //   title: 'Kakooza Allan Klaus',
+  //   description:
+  //     'Kakooza Allan Klaus is an AI and Automation engineer who specializes in building rpa and agentic bots that do repetitive tasks.',
+  //   siteUrl: 'https://www.kakoozaallanklaus.com', // No trailing slash allowed!
+  //   image: 'K:\_PROJECTS\myportfolio\static\og.png', // Path to your image you placed in the 'static' folder
+  //   twitterUsername: '@Klaus_in_Tech',
+  // },
+  pathPrefix: '/myportfolio',
   siteMetadata: {
     title: 'Kakooza Allan Klaus',
     description:
       'Kakooza Allan Klaus is an AI and Automation engineer who specializes in building rpa and agentic bots that do repetitive tasks.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    siteUrl: 'https://www.kakoozaallanklaus.com', // No trailing slash allowed!
+    image: 'K:_PROJECTSmyportfoliostaticog.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@Klaus_in_Tech',
   },
   plugins: [
@@ -26,7 +35,7 @@ module.exports = {
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images',
+        icon: 'src/images/favicons/favicon.ico',
       },
     },
     `gatsby-plugin-offline`,
