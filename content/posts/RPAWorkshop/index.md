@@ -1,8 +1,10 @@
 ---
-title: Markdown Test File
+title: RPA workshop at Makerere University
 description: abc234
-date: 2019-12-07
+date: 2023-08-11
 draft: true
+company: 'Flyhub Uganda Limited'
+external: 'https://www.linkedin.com/feed/update/urn:li:activity:7099030694231744512/'
 slug: /pensieve/markdown-playground
 tags:
   - Testing

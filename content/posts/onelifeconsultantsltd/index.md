@@ -1,8 +1,10 @@
 ---
-title: Dark Mode Toggle
+title: Meeting the onelife team in Kenya
 description: Dark mode without the flash of default theme
-date: 2021-04-21
+date: 2024-12-19
 draft: false
+external: 'https://www.linkedin.com/posts/kakoozaallanklaus_rpa-teamwork-innovation-activity-7275558167017594881-zAbe?utm_source=share&utm_medium=member_desktop'
+company: 'Onelife Consultants Ltd'
 slug: /pensieve/dark-mode-toggle
 tags:
   - Theming

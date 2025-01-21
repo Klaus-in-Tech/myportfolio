@@ -1,8 +1,10 @@
 ---
-title: Docker Compose Error
+title: Published an article on the UiPath blog
 description: docker-compose version discrepancies
-date: '2019-12-13'
+date: '2024-10-18'
 draft: false
+company: 'Onelife Consultants Ltd'
+external: 'https://www.uipath.com/community-blog/tutorials/design-scalable-automations-with-uipath-orchestrator'
 slug: '/pensieve/docker-error'
 tags:
   - WordPress

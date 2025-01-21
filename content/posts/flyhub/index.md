@@ -1,8 +1,10 @@
 ---
-title: Accessible Clickable Cards
+title: Leanership Program
 description: Clickable cards with multiple child links
-date: 2021-04-21
+date: 2022-10-10
 draft: false
+external: 'https://flyhub.co.ug/leanerships-program/'
+company: 'Flyhub Uganda Limited'
 slug: /pensieve/clickable-cards
 tags:
   - Accessibility

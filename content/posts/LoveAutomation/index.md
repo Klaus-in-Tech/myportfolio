@@ -1,8 +1,9 @@
 ---
-title: WordPress Publishing Error
+title: Received a Gift shirt from the I love Automation Community
 description: Trying to create a simple post in WordPress
-date: 2019-12-03
+date: 2023-01-11
 draft: false
+external: 'https://www.linkedin.com/feed/update/urn:li:activity:7099030694231744512/'
 slug: /pensieve/wordpress-publish-error
 tags:
   - WordPress
