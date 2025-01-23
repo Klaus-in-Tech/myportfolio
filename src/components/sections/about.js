@@ -130,7 +130,7 @@ const About = () => {
     'JavaScript',
     'React',
     'UiPath',
-    'Robocorp',
+    'LangChain',
     'WordPress',
     'FASTAPI',
     'Java',
