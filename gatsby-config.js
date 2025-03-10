@@ -14,8 +14,8 @@ module.exports = {
     title: 'Kakooza Allan Klaus',
     description:
       'Kakooza Allan Klaus is an AI and Automation engineer who specializes in building rpa and agentic bots that do repetitive tasks.',
-    siteUrl: 'https://www.kakoozaallanklaus.com', // No trailing slash allowed!
-    image: 'K:_PROJECTSmyportfoliostaticog.png', // Path to your image you placed in the 'static' folder
+    siteUrl: 'https://klaus-in-tech.github.io/myportfolio/', // No trailing slash allowed!
+    image: 'K:_PROJECTSmyportfoliosrcimagesme.jpg', // Path to your image you placed in the 'static' folder
     twitterUsername: '@Klaus_in_Tech',
   },
   plugins: [

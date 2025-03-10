@@ -54,6 +54,13 @@ const Affiliations = () => (
       <a href="https://ranxgroup.com/" target="_blank" rel="noopener noreferrer">
         <StaticImage className="logo" src="../../images/ranx-logo.png" alt="Ranx logo" />
       </a>
+      <a href="https://andersjensen.org/" target="_blank" rel="noopener noreferrer">
+        <StaticImage
+          className="logo"
+          src="../../images/i-love-automation-logo.png"
+          alt="Ranx logo"
+        />
+      </a>
     </div>
   </StyledAffiliationsSection>
 );
