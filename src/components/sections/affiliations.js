@@ -58,7 +58,7 @@ const Affiliations = () => (
         <StaticImage
           className="logo"
           src="../../images/i-love-automation-logo.png"
-          alt="Ranx logo"
+          alt="I love automation logo"
         />
       </a>
     </div>
