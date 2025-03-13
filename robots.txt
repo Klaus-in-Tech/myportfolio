@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.kakoozaallanklaus.com/myportfolio/sitemap-index.xml
-Host: https://www.kakoozaallanklaus.com
+Sitemap: https://klaus-in-tech.github.io/myportfolio/sitemap-index.xml
+Host: https://klaus-in-tech.github.io
